@@ -48,9 +48,9 @@ I am passionate about technology, programming, and solving real-world problems t
 
 ## 📊 GitHub Stats
 
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ACP2008&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ACP2008&layout=compact&theme=tokyonight)
 
 ---
 
@@ -64,5 +64,6 @@ I am passionate about technology, programming, and solving real-world problems t
 
 ### ✨ Quote
 
-> "Learning never exhausts the mind; it only expands the possibilities."
-```
+> "Learning never exhausts the mind; it only expands the possibilities.
+
+---
