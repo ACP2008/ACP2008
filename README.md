@@ -75,3 +75,8 @@ I am passionate about technology, programming, and solving real-world problems t
 </p>
 
 ---
+
+<!-- Live Activity Snake -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+
+---
