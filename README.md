@@ -59,7 +59,8 @@ I am passionate about technology, programming, and solving real-world problems t
 - GitHub: https://github.com/ACP2008
 - LinkedIn: Coming Soon
 - Portfolio Website: Coming Soon
-
+- Instagram: https://www.instagram.com/neurox__ai/
+  
 ---
 
 ### ✨ Quote
