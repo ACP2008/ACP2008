@@ -57,7 +57,7 @@ I am passionate about technology, programming, and solving real-world problems t
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/ACP2008
-- LinkedIn: Coming Soon
+- LinkedIn: https://www.linkedin.com/in/ayush-prajapati-84b3b241b/
 - Portfolio Website: Coming Soon
 - Instagram: https://www.instagram.com/neurox__ai/
   
